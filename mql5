@@ -1,0 +1,92 @@
+mql5
+//+------------------------------------------------------------------+
+//|                                               AliSessions.mq5   |
+//|                Copyright 2022, Forex Robot Easy Team             |
+//|                                             forexroboteasy.com   |
+//+------------------------------------------------------------------+
+//|                                                                  |
+//| Terms of Reference for Writing Code for AliSessions Forex Software|
+//|                                                                  |
+//| 1. Develop a trading algorithm that enables the AliSessions Forex |
+//|    Software to track price movements and identify the high and low|
+//|    of a session.                                                 |
+//| 2. Implement a function that allows traders to customize their    |
+//|    trading sessions by setting specific start and end times for   |
+//|    the session highlight.                                         |
+//| 3. Ensure that the customizable Session Highlights feature can be |
+//|    used across any currency pairs, indices, and timeframes.       |
+//| 4. Develop a straightforward and intuitive user interface for the |
+//|    AliSessions Forex Software, making it easy for traders to      |
+//|    comprehend the range of a session.                             |
+//| 5. Enable the software to provide clarity and enhance the trading |
+//|    experience by offering Session Highlights.                     |
+//| 6. Ensure that the code is written efficiently and optimized for  |
+//|    fast and accurate price tracking and session identification.   |
+//| 7. Implement error handling mechanisms to handle any unexpected   |
+//|    issues and provide appropriate error messages to the user.     |
+//| 8. Test the code thoroughly to ensure its functionality and        |
+//|    reliability.                                                  |
+//| 9. Provide proper documentation for the code, including comments  |
+//|    and explanations of the implemented functions and algorithms.  |
+//| 10. Ensure that the code is scalable and can handle a large number|
+//|     of traders and trading sessions efficiently.                  |
+//| 11. Follow best coding practices and adhere to coding standards   |
+//|     to ensure maintainability and readability of the code.        |
+//| 12. Deliver the code within the specified timeframe, meeting all  |
+//|     the mentioned requirements.                                   |
+//|                                                                  |
+//+------------------------------------------------------------------+
+
+// Function to track price movements and identify session high and low
+void TrackPriceMovements()
+{
+    // TODO: Implement price tracking algorithm
+    // ...
+}
+
+// Function to customize trading sessions
+void CustomizeTradingSessions()
+{
+    // TODO: Implement customization logic for start and end times
+    // ...
+}
+
+// Function to provide session highlights
+void ProvideSessionHighlights()
+{
+    // TODO: Implement session highlighting logic
+    // ...
+}
+
+// Function to handle errors and display appropriate messages
+void HandleErrors()
+{
+    // TODO: Implement error handling mechanism
+    // ...
+}
+
+// Function to test code functionality and reliability
+void TestCode()
+{
+    // TODO: Implement code testing logic
+    // ...
+}
+
+// Function to provide proper documentation
+void ProvideDocumentation()
+{
+    // TODO: Implement code documentation
+    // ...
+}
+
+// Main program entry point
+void OnStart()
+{
+    // Call functions to perform required tasks
+    TrackPriceMovements();
+    CustomizeTradingSessions();
+    ProvideSessionHighlights();
+    HandleErrors();
+    TestCode();
+    ProvideDocumentation();
+}
